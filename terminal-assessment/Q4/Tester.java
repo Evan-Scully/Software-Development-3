@@ -19,10 +19,10 @@ public class Tester {
     {
         Child c1 = new Child("Evan", "Laois", 6,"Dog","Spot");
         Child c2 = new Child("Chloe", "Sligo", 8, "Dog", "Charlie");
-        Child c3 = new Child("Nigel", "Dublin", 4, "Fish", "Goldie");
+        Child c3 = new Child("Nidge", "Dublin", 4, "Fish", "Goldie");
 
         Adult a1 = new Adult("Darren", "Louth", 23, "Motorbike", 2, "Cat", "Lily");
-        Adult a2 = new Adult("Warren", "Cork", 45, "Var", 4, "Snake", "Slither");
+        Adult a2 = new Adult("Warren", "Cork", 45, "Car", 4, "Snake", "Slither");
         Adult a3 = new Adult("Michael", "Kerry", 33, "Car", 4, "Mouse", "Stuart");
 
         ArrayList<Person> list = new ArrayList<Person>();
